@@ -1,0 +1,3 @@
+Flask
+Flask-DebugToolbar
+requests<3.0.0dev,>=2.18.0
